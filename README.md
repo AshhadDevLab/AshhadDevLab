@@ -33,10 +33,10 @@ A designer and developer. I love new technologies, and am constantly looking for
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
 
--Python
--HTML
--CSS
--English
+- Python
+- HTML
+- CSS
+- English
 
 ### JavaScript Specific Toolset
 
