@@ -9,7 +9,7 @@ A designer and developer. I love new technologies, and am constantly looking for
 
 > Check out my newest project, Enigma Guard. Download it today!
 > 
-> <a title="Install Enigma Guard Encryption tool" href="https://www.raycast.com/AshhadDevLab/enigma-guard"><img src="https://github.com/AshhadDevLab/enigma-guard/blob/main/enigma-guard.png" height="64" alt="Enigma Guard" style="height: 64px;"></a>
+> <a title="Install Enigma Guard Encryption tool" href="https://github.com/AshhadDevLab/enigma-guard/releases/tag/v1.0.0-beta"><img src="https://github.com/AshhadDevLab/enigma-guard/blob/main/enigma-guard.png" height="64" alt="Enigma Guard" style="height: 64px;"></a>
 
 ## ✨ Skills
 
