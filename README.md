@@ -17,17 +17,15 @@ A designer and developer. I love new technologies, and am constantly looking for
 
 ### General
 
-[![My Skills](https://skillicons.dev/icons?i=js,bootstrap,sqlite,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,threejs,vite,electron)](https://skillicons.dev)
 
 - Front-End devlopment
   - Tkinter
   - Vanilla JS Framework
-  - Bootstrap
+  - Three.js
 - Back-End developnment
-  - SQLite
   - vite
-- UI/Graphic Design
-  - CSS/HTML
+  - Electron.js
 
 ### Fluent Languages
 
@@ -38,11 +36,12 @@ A designer and developer. I love new technologies, and am constantly looking for
 - CSS
 - English
 
-### JavaScript Specific Toolset
+### Python Specific Databases
 
-- NodeJS
-- NPM
-- HTML5 Canvas
+[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite)](https://skillicons.dev)
+
+- PyMongo
+- SQLite
 
 ## 👾 Software
 > What's on my computer?
@@ -58,7 +57,7 @@ A designer and developer. I love new technologies, and am constantly looking for
 
 > What do I use?
 
-- Computer: M1 Macbook Air
+- Computer: 10th Gen 15-10400F | Gigabyte B560M Gaming HD Motherboard | 16GB Ram XPG
 - Keyboard: AOC GK500 Blue Switches
 - Mouse: Razer Viper Mini
 
